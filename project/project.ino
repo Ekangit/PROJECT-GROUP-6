@@ -20,6 +20,7 @@ static lv_obj_t* t2;
 static lv_obj_t* t1_label;
 static lv_obj_t* t2_label;
 static bool t2_dark = false;  // start tile #2 in light mode
+// TEST COMMIT FROM MARTIN
 
 // Function: Tile #2 Color change
 static void apply_tile_colors(lv_obj_t* tile, lv_obj_t* label, bool dark)
